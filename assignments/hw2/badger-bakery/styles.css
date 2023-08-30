@@ -1,0 +1,35 @@
+table {
+  border: 1px solid;
+}
+
+th {
+  border: 1px solid;
+}
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+.large-text-wrap {
+  inline-size: 600px;
+}
+
+.primary-button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.secondary-button {
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
